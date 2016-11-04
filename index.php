@@ -1,1 +1,2 @@
-echo "cr7>messe";
+<?php
+echo "im a stone";
